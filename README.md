@@ -1,6 +1,7 @@
 # Download-Sorter
 This Python script automatically organizes files downloaded to your Downloads folder into specific subfolders based on their file types. It uses the watchdog library to monitor the Downloads directory and move files to appropriate subfolders as soon as they are downloaded. I made this since I used to download a lot of items in schoolwork so I thought of making this script to make it easy for me to locate items.
 
+Version 1.0.0
 
 ## Features
 
