@@ -38,6 +38,11 @@ python file_organizer.py
 ```
 
 The script will automatically create the required folders in your Downloads directory if they do not already exist. It will then monitor the Downloads folder and move files to their appropriate subfolders as they are downloaded.
+
+## Updates
+
+1.0 Base Sorting works will update soon
+
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes. 
