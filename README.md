@@ -16,10 +16,22 @@ Docs: .doc, .docx, .odt
 Music: .mp3, .wav, .ogg  
 Others: Any other file types   
 
+## Installation
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/yourusername/file-organizer.git
+    cd file-organizer
+    ```
+
+2. **Install the required packages:**
+    ```bash
+    pip install watchdog
+    ```
 
 ## Usage
 
-Run the script to start organizing your files:
+Run the script to start organizing your files using Python 3:
 
 ```bash
 python file_organizer.py
